@@ -1,0 +1,5 @@
+[mysql]
+host = IES-ADS-ClassDB.sjsu.edu
+database = schemamasters_db
+user = schemamasters_user
+password = Melon_522
