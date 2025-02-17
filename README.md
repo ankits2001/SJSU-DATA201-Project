@@ -89,9 +89,3 @@ The **Library Management System** is a desktop application built using **PyQt5**
 ├── README.md              # Project documentation
 └── charts/                # Visualization helper files
 ```
-
-## Screenshots
-
-### Dashboard Overview
-### Book Management
-### Client Management
